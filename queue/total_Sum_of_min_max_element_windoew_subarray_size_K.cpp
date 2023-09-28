@@ -5,7 +5,7 @@ using namespace std;
 //                                            QUESTION
 
 
-/* Explain the implementation of the solve function in your code, which calculates the maximum sum of 
+/* Explain the implementation of the solve function in your code, which calculates the total sum of 
 minimum and maximum elements in all windows of size k for a given array. Provide a step-by-step 
 breakdownof how the algorithm works, and discuss the purpose of using deque data
  structures to optimize this calculation.*/
